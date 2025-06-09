@@ -1,4 +1,3 @@
-import tkinter
 import tkinter as window
 from tkinter import font
 from service import Service
